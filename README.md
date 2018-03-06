@@ -14,14 +14,14 @@ Beginner to Advance Level Data Science Projects Example in Python and R
 
 ### 3. Housing Prices Prediction 🏡
 
-    Python - https://lnkd.in/gX2FSDk
+   Python - https://lnkd.in/gX2FSDk
 
-    R - https://lnkd.in/ggFJSyd
+   R - https://lnkd.in/ggFJSyd
 
 
 # ➖INTERMEDIATE➖
 
-###4. Instacart Market Basket Analysis 🛒
+### 4. Instacart Market Basket Analysis 🛒
 
    Python - https://lnkd.in/gkNaXqH
 
