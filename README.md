@@ -21,42 +21,43 @@ Beginner to Advance Level Data Science Projects Example in Python and R
 
 # ➖INTERMEDIATE➖
 
-#4. Instacart Market Basket Analysis 🛒
+###4. Instacart Market Basket Analysis 🛒
 
-    Python - https://lnkd.in/gkNaXqH
+   Python - https://lnkd.in/gkNaXqH
 
-    R- https://lnkd.in/g2gthxu
+   R- https://lnkd.in/g2gthxu
 
-#5. Quora Question Pairs 👥
+### 5. Quora Question Pairs 👥
 
-    Python - https://lnkd.in/gPDnrBG
+   Python - https://lnkd.in/gPDnrBG
 
-#6. Human Resource Analytics 🕴🏻
+### 6. Human Resource Analytics 🕴🏻
 
-    Python - https://lnkd.in/gVUPfWm
+   Python - https://lnkd.in/gVUPfWm
 
-    R -https://lnkd.in/gHusQYX
+   R -https://lnkd.in/gHusQYX
 
 
 # ➖ADVANCED➖
 
-#7. Analyzing Soccer Player Faces ⚽️
+### 7. Analyzing Soccer Player Faces ⚽️
 
-    Python - https://lnkd.in/gUys_TS
+   Python - https://lnkd.in/gUys_TS
 
-#8. Recruit Restaurant Visitor Forecasting 🍱
+### 8. Recruit Restaurant Visitor Forecasting 🍱
 
-    Python - https://lnkd.in/gjQvf74
+   Python - https://lnkd.in/gjQvf74
 
-#9. TensorFlow Speech Recognition 🗣
+### 9. TensorFlow Speech Recognition 🗣
 
-    Python - https://lnkd.in/g8SSPfW
+   Python - https://lnkd.in/g8SSPfW
 
 
 # ➖MASTERY➖
 
 10. Yourself 🏆 
-Learn and improve everyday. No matter how fast or slow.
+
+# Learn and improve everyday. No matter how fast or slow.
 
 
 Credits:Randa Lao from linkedin Post
