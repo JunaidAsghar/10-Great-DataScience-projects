@@ -1,25 +1,25 @@
 # 10-Great-DataScience-projects
 Beginner to Advance Level Data Science Projects Example in Python and R
 
-#-- Beginner Level --
-1. Pokemon - Weedle's Cave 🐛
+# -- Beginner Level --
+### 1. Pokemon - Weedle's Cave 🐛
 
-    Python - https://lnkd.in/gcKWWQ2
+   Python - https://lnkd.in/gcKWWQ2
 
-#2. Titanic ML 🚢
+### 2. Titanic ML 🚢
 
-    Python - https://lnkd.in/gafie9m
+   Python - https://lnkd.in/gafie9m
 
-    R - https://lnkd.in/gRRa7HV
+   R - https://lnkd.in/gRRa7HV
 
-#3. Housing Prices Prediction 🏡
+### 3. Housing Prices Prediction 🏡
 
     Python - https://lnkd.in/gX2FSDk
 
     R - https://lnkd.in/ggFJSyd
 
 
-#➖INTERMEDIATE➖
+# ➖INTERMEDIATE➖
 
 #4. Instacart Market Basket Analysis 🛒
 
@@ -38,7 +38,7 @@ Beginner to Advance Level Data Science Projects Example in Python and R
     R -https://lnkd.in/gHusQYX
 
 
-#➖ADVANCED➖
+# ➖ADVANCED➖
 
 #7. Analyzing Soccer Player Faces ⚽️
 
@@ -53,7 +53,7 @@ Beginner to Advance Level Data Science Projects Example in Python and R
     Python - https://lnkd.in/g8SSPfW
 
 
-#➖MASTERY➖
+# ➖MASTERY➖
 
 10. Yourself 🏆 
 Learn and improve everyday. No matter how fast or slow.
